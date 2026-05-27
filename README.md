@@ -9,36 +9,47 @@
 
 ## 🚀 About Me
 
-Mobile & Full Stack Developer passionate about building user-centric applications. Currently working on **UniEvents** - a mobile app helping students discover and register for school club events.
+Full Stack Developer passionate about building robust applications. Computer Science Student at **FPT University**.
 
-- 🎓 Computer Science Enthusiast
-- 📱 Mobile Development (Flutter/Dart)
-- 💻 Full Stack Development
+- 🎓 Computer Science @ FPT University
+- 💻 Full Stack Development (Backend & Frontend)
 - 🌱 Always learning & improving
+- 🔧 Exploring multiple tech stacks
 
 ## 💼 What I'm Working On
 
-### 🎯 Current Projects
+### 🎯 Current Focus
 
-**[UniEvents](https://github.com/ngoctuan653/uni_events)** - Flutter Mobile App
-- Students can discover and register for club events
-- Real-time notifications before events
-- Club management dashboard
-- Built with: **Dart, Flutter, Firebase**
+**Backend Development**
+- Java, Spring Boot, Spring Framework
+- SQL Database Design & Optimization
+- RESTful API Development
+
+**Frontend Development**
+- React & Modern JavaScript
+- Responsive UI/UX Design
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### 🔴 Primary Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Frameworks & Tools
+### 🟡 Secondary & Learning
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -52,9 +63,10 @@ Mobile & Full Stack Developer passionate about building user-centric application
 
 ## 🎯 Goals for 2026
 
-- 🚀 Launch UniEvents to production
-- 📚 Learn advanced Flutter/Dart patterns
-- 🌐 Build full-stack web applications
+- 🚀 Master Spring Boot & advanced Java patterns
+- 📚 Build full-stack web applications with React + Spring
+- 🔥 Explore mobile development (Dart/Flutter)
+- 🌐 Deepen database design & optimization skills
 - 🤝 Contribute to open source projects
 
 ## 📫 Get In Touch
